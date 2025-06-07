@@ -13,6 +13,5 @@ This project aims to create a stable diffusion app utilizing Gradio and Diffuser
 - **Gradio**: A Python library that enables rapid creation of UIs for machine learning models.
 - **Diffusers 2.0**: A library by Hugging Face that provides access to pre-trained diffusion models.
 
-## Example Image
-![Car Image](car.png)
+
 
